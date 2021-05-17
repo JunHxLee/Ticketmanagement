@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "msadev1-Ticketmanagement"
+    _PROJECT_NAME: "msadev1-ticketmanagement"
 
 phases:
   install:
